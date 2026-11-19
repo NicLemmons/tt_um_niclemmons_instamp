@@ -1034,14 +1034,6 @@ rect 7194 -3744 7292 -3554
 rect 7696 -3744 8584 -3554
 rect 7194 -3810 8584 -3744
 rect 7750 -3818 8584 -3810
-use sky130_fd_pr__cap_mim_m3_1_FTE6YS  sky130_fd_pr__cap_mim_m3_1_FTE6YS_0
-timestamp 1793513263
-transform 1 0 7961 0 1 16228
-box 0 0 1 1
-use sky130_fd_pr__cap_mim_m3_1_FTE6YS  sky130_fd_pr__cap_mim_m3_1_FTE6YS_1
-timestamp 1793513263
-transform 1 0 8383 0 1 -10768
-box 0 0 1 1
 use sky130_fd_pr__cap_mim_m3_1_LFDY3D  sky130_fd_pr__cap_mim_m3_1_LFDY3D_0
 timestamp 1793566508
 transform 0 -1 11292 1 0 -4442
