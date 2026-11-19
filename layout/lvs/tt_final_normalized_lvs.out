@@ -1,0 +1,305 @@
+
+Circuit 1 cell sky130_fd_pr__nfet_g5v0d10v5 and Circuit 2 cell sky130_fd_pr__nfet_g5v0d10v5 are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__nfet_g5v0d10v5 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__nfet_g5v0d10v5 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__nfet_g5v0d10v5    |Circuit 2: sky130_fd_pr__nfet_g5v0d10v5    
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__nfet_g5v0d10v5 and sky130_fd_pr__nfet_g5v0d10v5 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__res_xhigh_po_0p35 and Circuit 2 cell sky130_fd_pr__res_xhigh_po_0p35 are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__res_xhigh_po_0p35 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__res_xhigh_po_0p35 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__res_xhigh_po_0p35 |Circuit 2: sky130_fd_pr__res_xhigh_po_0p35 
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__res_xhigh_po_0p35 and sky130_fd_pr__res_xhigh_po_0p35 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__pfet_g5v0d10v5 and Circuit 2 cell sky130_fd_pr__pfet_g5v0d10v5 are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_g5v0d10v5 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_g5v0d10v5 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__pfet_g5v0d10v5    |Circuit 2: sky130_fd_pr__pfet_g5v0d10v5    
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__pfet_g5v0d10v5 and sky130_fd_pr__pfet_g5v0d10v5 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__cap_mim_m3_1 and Circuit 2 cell sky130_fd_pr__cap_mim_m3_1 are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__cap_mim_m3_1 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__cap_mim_m3_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__cap_mim_m3_1      |Circuit 2: sky130_fd_pr__cap_mim_m3_1      
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__cap_mim_m3_1 and sky130_fd_pr__cap_mim_m3_1 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__res_high_po_0p35 and Circuit 2 cell sky130_fd_pr__res_high_po_0p35 are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__res_high_po_0p35 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__res_high_po_0p35 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__res_high_po_0p35  |Circuit 2: sky130_fd_pr__res_high_po_0p35  
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__res_high_po_0p35 and sky130_fd_pr__res_high_po_0p35 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__pnp_05v5_W3p40L3p40 and Circuit 2 cell sky130_fd_pr__pnp_05v5_W3p40L3p40 are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__pnp_05v5_W3p40L3p40 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__pnp_05v5_W3p40L3p40 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__pnp_05v5_W3p40L3p |Circuit 2: sky130_fd_pr__pnp_05v5_W3p40L3p 
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__pnp_05v5_W3p40L3p40 and sky130_fd_pr__pnp_05v5_W3p40L3p40 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__res_high_po_0p69 and Circuit 2 cell sky130_fd_pr__res_high_po_0p69 are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__res_high_po_0p69 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__res_high_po_0p69 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__res_high_po_0p69  |Circuit 2: sky130_fd_pr__res_high_po_0p69  
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__res_high_po_0p69 and sky130_fd_pr__res_high_po_0p69 are equivalent.
+Flattening unmatched subcell opamp in circuit instamp (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_XEZYU8 in circuit instamp (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_D63FT7 in circuit instamp (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_0p35_4STW88 in circuit instamp (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_ZBX2QQ in circuit instamp (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_WSRT5Y in circuit instamp (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__cap_mim_m3_1_LFDY3D in circuit instamp (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_7Z9J8P in circuit instamp (0)(6 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_6DZSZ4 in circuit instamp (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_7EKD8Q in circuit instamp (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_HSK44S in circuit instamp (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_FZ57BH in circuit instamp (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_VXNDUF in circuit instamp (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_RMQKHK in circuit instamp (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_CEYAGG in circuit instamp (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_ZAXPB3 in circuit instamp (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_MJCC72 in circuit instamp (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_XTGA95 in circuit instamp (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_4KCRW8 in circuit instamp (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_XEVSFF in circuit instamp (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_2GL2T2 in circuit instamp (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__res_high_po_0p35_PRYE8N in circuit instamp (0)(2 instances)
+Flattening unmatched subcell bandgap in circuit instamp (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_98BQ98 in circuit instamp (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_DQLY7V in circuit instamp (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_CEYAGG in circuit instamp (0)(3 instances)
+Flattening unmatched subcell sky130_fd_pr__res_high_po_0p35_5B63ZM in circuit instamp (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_SNXN39 in circuit instamp (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_S4LSTS in circuit instamp (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__res_high_po_0p35_4V3BL6 in circuit instamp (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_P62BBU in circuit instamp (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__res_high_po_0p35_CE38J9 in circuit instamp (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__rf_pnp_05v5_W3p40L3p40 in circuit instamp (0)(25 instances)
+Flattening unmatched subcell sky130_fd_pr__res_high_po_0p69_4NKL3V in circuit instamp (0)(2 instances)
+Flattening unmatched subcell opamp_x in circuit instamp (1)(2 instances)
+Flattening unmatched subcell bandgap_x in circuit instamp (1)(1 instance)
+
+Removing zero-valued device vsrc from cell instamp (1) makes a better match
+Removing zero-valued device vsrc from cell instamp (1) makes a better match
+Removing zero-valued device r from cell instamp (0) makes a better match
+Removing zero-valued device r from cell instamp (0) makes a better match
+Removing zero-valued device r from cell instamp (0) makes a better match
+Removing zero-valued device r from cell instamp (0) makes a better match
+Removing zero-valued device r from cell instamp (0) makes a better match
+Removing zero-valued device r from cell instamp (0) makes a better match
+Removing zero-valued device r from cell instamp (0) makes a better match
+Removing zero-valued device r from cell instamp (0) makes a better match
+Removing zero-valued device r from cell instamp (0) makes a better match
+Removing zero-valued device r from cell instamp (0) makes a better match
+Removing zero-valued device r from cell instamp (0) makes a better match
+Removing zero-valued device r from cell instamp (0) makes a better match
+Making another compare attempt.
+
+Class instamp (0):  Merged 195 parallel devices.
+Subcircuit summary:
+Circuit 1: instamp                         |Circuit 2: instamp                         
+-------------------------------------------|-------------------------------------------
+sky130_fd_pr__nfet_g5v0d10v5 (97->43)      |sky130_fd_pr__nfet_g5v0d10v5 (81->43)      
+sky130_fd_pr__res_xhigh_po_0p35 (2)        |sky130_fd_pr__res_xhigh_po_0p35 (2)        
+sky130_fd_pr__pfet_g5v0d10v5 (158->40)     |sky130_fd_pr__pfet_g5v0d10v5 (144->40)     
+sky130_fd_pr__cap_mim_m3_1 (4)             |sky130_fd_pr__cap_mim_m3_1 (4)             
+sky130_fd_pr__res_high_po_0p35 (6)         |sky130_fd_pr__res_high_po_0p35 (6)         
+sky130_fd_pr__pnp_05v5_W3p40L3p40 (25->2)  |sky130_fd_pr__pnp_05v5_W3p40L3p40 (25->2)  
+sky130_fd_pr__res_high_po_0p69 (2)         |sky130_fd_pr__res_high_po_0p69 (2)         
+Number of devices: 99                      |Number of devices: 99                      
+Number of nets: 69                         |Number of nets: 69                         
+---------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: instamp                         |Circuit 2: instamp                         
+-------------------------------------------|-------------------------------------------
+Vdd                                        |VDD                                        
+Vp                                         |Vp                                         
+Vn                                         |Vn                                         
+Vmid                                       |Vmid                                       
+Vout                                       |Vout                                       
+GND                                        |GND                                        
+Vref                                       |Vref                                       
+Rgp                                        |Rgp                                        
+Rgn                                        |Rgn                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes instamp and instamp are equivalent.
+Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_0p35_7QA56L in circuit tt_um_niclemmons_instamp (0)(2 instances)
+
+Cell tt_um_niclemmons_instamp (0) disconnected node: clk
+Cell tt_um_niclemmons_instamp (0) disconnected node: ena
+Cell tt_um_niclemmons_instamp (0) disconnected node: rst_n
+Cell tt_um_niclemmons_instamp (0) disconnected node: ua[6]
+Cell tt_um_niclemmons_instamp (0) disconnected node: ua[7]
+Cell tt_um_niclemmons_instamp (0) disconnected node: ui_in[0]
+Cell tt_um_niclemmons_instamp (0) disconnected node: ui_in[1]
+Cell tt_um_niclemmons_instamp (0) disconnected node: ui_in[2]
+Cell tt_um_niclemmons_instamp (0) disconnected node: ui_in[3]
+Cell tt_um_niclemmons_instamp (0) disconnected node: ui_in[4]
+Cell tt_um_niclemmons_instamp (0) disconnected node: ui_in[5]
+Cell tt_um_niclemmons_instamp (0) disconnected node: ui_in[6]
+Cell tt_um_niclemmons_instamp (0) disconnected node: ui_in[7]
+Cell tt_um_niclemmons_instamp (0) disconnected node: uio_in[0]
+Cell tt_um_niclemmons_instamp (0) disconnected node: uio_in[1]
+Cell tt_um_niclemmons_instamp (0) disconnected node: uio_in[2]
+Cell tt_um_niclemmons_instamp (0) disconnected node: uio_in[3]
+Cell tt_um_niclemmons_instamp (0) disconnected node: uio_in[4]
+Cell tt_um_niclemmons_instamp (0) disconnected node: uio_in[5]
+Cell tt_um_niclemmons_instamp (0) disconnected node: uio_in[6]
+Cell tt_um_niclemmons_instamp (0) disconnected node: uio_in[7]
+Cell tt_um_niclemmons_instamp (0) disconnected node: VDPWR
+Cell tt_um_niclemmons_instamp (1) disconnected node: clk
+Cell tt_um_niclemmons_instamp (1) disconnected node: ena
+Cell tt_um_niclemmons_instamp (1) disconnected node: rst_n
+Cell tt_um_niclemmons_instamp (1) disconnected node: ua[6]
+Cell tt_um_niclemmons_instamp (1) disconnected node: ua[7]
+Cell tt_um_niclemmons_instamp (1) disconnected node: ui_in[0]
+Cell tt_um_niclemmons_instamp (1) disconnected node: ui_in[1]
+Cell tt_um_niclemmons_instamp (1) disconnected node: ui_in[2]
+Cell tt_um_niclemmons_instamp (1) disconnected node: ui_in[3]
+Cell tt_um_niclemmons_instamp (1) disconnected node: ui_in[4]
+Cell tt_um_niclemmons_instamp (1) disconnected node: ui_in[5]
+Cell tt_um_niclemmons_instamp (1) disconnected node: ui_in[6]
+Cell tt_um_niclemmons_instamp (1) disconnected node: ui_in[7]
+Cell tt_um_niclemmons_instamp (1) disconnected node: uio_in[0]
+Cell tt_um_niclemmons_instamp (1) disconnected node: uio_in[1]
+Cell tt_um_niclemmons_instamp (1) disconnected node: uio_in[2]
+Cell tt_um_niclemmons_instamp (1) disconnected node: uio_in[3]
+Cell tt_um_niclemmons_instamp (1) disconnected node: uio_in[4]
+Cell tt_um_niclemmons_instamp (1) disconnected node: uio_in[5]
+Cell tt_um_niclemmons_instamp (1) disconnected node: uio_in[6]
+Cell tt_um_niclemmons_instamp (1) disconnected node: uio_in[7]
+Cell tt_um_niclemmons_instamp (1) disconnected node: VDPWR
+Subcircuit summary:
+Circuit 1: tt_um_niclemmons_instamp        |Circuit 2: tt_um_niclemmons_instamp        
+-------------------------------------------|-------------------------------------------
+sky130_fd_pr__res_xhigh_po_0p35 (2)        |sky130_fd_pr__res_xhigh_po_0p35 (2)        
+instamp (1)                                |instamp (1)                                
+r (24)                                     |r (24)                                     
+Number of devices: 27                      |Number of devices: 27                      
+Number of nets: 33                         |Number of nets: 33                         
+---------------------------------------------------------------------------------------
+Resolving symmetries by property value.
+Resolving symmetries by pin name.
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: tt_um_niclemmons_instamp        |Circuit 2: tt_um_niclemmons_instamp        
+-------------------------------------------|-------------------------------------------
+ua[2]                                      |ua[2]                                      
+ua[4]                                      |ua[4]                                      
+ua[0]                                      |ua[0]                                      
+ua[1]                                      |ua[1]                                      
+ua[3]                                      |ua[3]                                      
+ua[5]                                      |ua[5]                                      
+uo_out[5]                                  |uo_out[5]                                  
+uio_out[2]                                 |uio_out[2]                                 
+uo_out[6]                                  |uo_out[6]                                  
+uio_out[3]                                 |uio_out[3]                                 
+uio_out[4]                                 |uio_out[4]                                 
+uio_oe[1]                                  |uio_oe[1]                                  
+uio_oe[0]                                  |uio_oe[0]                                  
+uo_out[7]                                  |uo_out[7]                                  
+uio_oe[7]                                  |uio_oe[7]                                  
+uio_out[5]                                 |uio_out[5]                                 
+uio_out[7]                                 |uio_out[7]                                 
+uio_out[6]                                 |uio_out[6]                                 
+uio_oe[3]                                  |uio_oe[3]                                  
+uio_oe[2]                                  |uio_oe[2]                                  
+uo_out[0]                                  |uo_out[0]                                  
+uio_oe[4]                                  |uio_oe[4]                                  
+uo_out[1]                                  |uo_out[1]                                  
+uio_oe[5]                                  |uio_oe[5]                                  
+uo_out[2]                                  |uo_out[2]                                  
+uio_oe[6]                                  |uio_oe[6]                                  
+uo_out[3]                                  |uo_out[3]                                  
+uio_out[0]                                 |uio_out[0]                                 
+uo_out[4]                                  |uo_out[4]                                  
+uio_out[1]                                 |uio_out[1]                                 
+VAPWR                                      |VAPWR                                      
+VGND                                       |VGND                                       
+clk                                        |clk                                        
+ena                                        |ena                                        
+rst_n                                      |rst_n                                      
+ua[6]                                      |ua[6]                                      
+ua[7]                                      |ua[7]                                      
+ui_in[0]                                   |ui_in[0]                                   
+ui_in[1]                                   |ui_in[1]                                   
+ui_in[2]                                   |ui_in[2]                                   
+ui_in[3]                                   |ui_in[3]                                   
+ui_in[4]                                   |ui_in[4]                                   
+ui_in[5]                                   |ui_in[5]                                   
+ui_in[6]                                   |ui_in[6]                                   
+ui_in[7]                                   |ui_in[7]                                   
+uio_in[0]                                  |uio_in[0]                                  
+uio_in[1]                                  |uio_in[1]                                  
+uio_in[2]                                  |uio_in[2]                                  
+uio_in[3]                                  |uio_in[3]                                  
+uio_in[4]                                  |uio_in[4]                                  
+uio_in[5]                                  |uio_in[5]                                  
+uio_in[6]                                  |uio_in[6]                                  
+uio_in[7]                                  |uio_in[7]                                  
+VDPWR                                      |VDPWR                                      
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes tt_um_niclemmons_instamp and tt_um_niclemmons_instamp are equivalent.
+
+Final result: Circuits match uniquely.
+.

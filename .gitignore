@@ -9,3 +9,34 @@ test/sim_build
 test/__pycache__/
 test/results.xml
 test/gate_level_netlist.v
+
+# ECE 5120: Generated diagnostic logs
+/tt_*.log
+
+# Keep only the final GDS export
+/gds/*
+!/gds/tt_um_niclemmons_instamp.gds
+
+# Local diagnostic directories and backups
+/layout/config_backup/
+/layout/export_backup/
+/layout/gds_device_test/
+/layout/gds_mcon_check/
+/layout/gds_roundtrip/
+/layout/gds_roundtrip_flat/
+/layout/klayout_drc/
+
+# Magic-generated extraction and temporary files
+/layout/mag/*.ext
+/layout/mag/*.spice
+/layout/mag/*.lock
+/layout/mag/*.mag.lock
+/layout/mag/*.mag~
+/layout/mag/*.log
+
+# Keep only the important LVS files
+/layout/lvs/*
+!/layout/lvs/tt_um_niclemmons_instamp_reference.spice
+!/layout/lvs/tt_final.spice
+!/layout/lvs/tt_final_alias_normalized.spice
+!/layout/lvs/tt_final_normalized_lvs.out
