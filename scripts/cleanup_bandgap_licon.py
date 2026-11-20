@@ -93,6 +93,76 @@ print("\nTotal duplicate parent contacts:", total_removed)
 if total_removed == 0:
     raise RuntimeError("No duplicate contacts removed")
 
+
+
+# FINAL_BANDGAP_LICON_CORRECTION
+# Support both verified Magic source configurations.
+
+licon = layout.find_layer(pya.LayerInfo(66, 44))
+
+target = pya.Box(24090, 1520, 26090, 1710)
+
+matches = [
+    shape
+    for shape in bandgap.shapes(licon).each()
+    if shape.is_box() and shape.box == target
+]
+
+if len(matches) == 1:
+
+    if total_removed != 439:
+        raise RuntimeError(
+            f"Unexpected duplicate count: {total_removed}"
+        )
+
+    before_final = pya.Region(
+        top.begin_shapes_rec(licon)
+    )
+    before_final.merge()
+
+    matches[0].delete()
+
+    after_final = pya.Region(
+        top.begin_shapes_rec(licon)
+    )
+    after_final.merge()
+
+    expected = pya.Region(
+        pya.Box(*[
+            round(v / layout.dbu)
+            for v in (48.90, 91.11, 49.09, 91.31)
+        ])
+    )
+
+    removed = before_final - after_final
+    added = after_final - before_final
+
+    if not added.is_empty() or not (
+        removed ^ expected
+    ).is_empty():
+        raise RuntimeError(
+            "Unexpected final LICON geometry change"
+        )
+
+    print("Extra parent LICON: REMOVED")
+    print("Flattened correction: VERIFIED")
+
+elif len(matches) == 0 and total_removed == 440:
+
+    # The shifted contact is now an exact duplicate.
+    # It was removed during the earlier cleanup step,
+    # which verified unchanged flattened geometry.
+
+    print("Extra parent LICON: ALREADY REMOVED")
+    print("440 exact duplicates: VERIFIED")
+
+else:
+    raise RuntimeError(
+        "Unexpected LICON cleanup state: "
+        f"{len(matches)} remaining, "
+        f"{total_removed} duplicates removed"
+    )
+
 layout.write(dst)
 
 print("Diagnostic GDS:", dst)

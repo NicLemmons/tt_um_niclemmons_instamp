@@ -40,3 +40,7 @@ test/gate_level_netlist.v
 !/layout/lvs/tt_final.spice
 !/layout/lvs/tt_final_alias_normalized.spice
 !/layout/lvs/tt_final_normalized_lvs.out
+
+/layout/backups/
+
+/scripts/__pycache__/

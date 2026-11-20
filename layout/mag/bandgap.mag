@@ -368,8 +368,8 @@ rect -2382 2430 -2324 2440
 << polycont >>
 rect -2366 2440 -2332 2608
 << xpolycontact >>
-rect 4802 288 5234 358
-rect 3616 -376 4048 -306
+rect 4842 288 5274 358
+rect 3488 -376 3920 -306
 << ppolyres >>
 rect 4048 -376 4054 -306
 << locali >>
@@ -505,12 +505,12 @@ rect 6132 814 15210 904
 rect -264 -186 2522 32
 rect 2680 506 15210 814
 rect 2680 450 6912 506
-rect 2680 -312 3518 450
+rect 2680 -312 3440 450
 rect 2496 -316 2550 -312
 rect 2300 -322 2550 -316
-rect 2680 -322 3528 -312
-rect -264 -334 3528 -322
-rect -1602 -444 3528 -334
+rect 2680 -322 3440 -312
+rect -264 -334 3440 -322
+rect -1602 -444 3440 -334
 rect 5860 -312 6912 450
 rect 7702 -312 8598 506
 rect 9418 -312 10296 506
@@ -1687,11 +1687,11 @@ transform 0 1 4388 -1 0 -1301
 box -201 -932 201 932
 use sky130_fd_pr__res_high_po_0p35_CE38J9  sky130_fd_pr__res_high_po_0p35_CE38J9_0
 timestamp 1790649530
-transform 0 -1 4096 -1 0 -9
+transform 0 -1 3968 -1 0 -9
 box -533 -646 533 646
 use sky130_fd_pr__res_high_po_0p35_CE38J9  sky130_fd_pr__res_high_po_0p35_CE38J9_1
 timestamp 1790649530
-transform 0 1 5282 -1 0 -9
+transform 0 1 5322 -1 0 -9
 box -533 -646 533 646
 use sky130_fd_pr__rf_pnp_05v5_W3p40L3p40  sky130_fd_pr__rf_pnp_05v5_W3p40L3p40_0 $PDKPATH/libs.ref/sky130_fd_pr/mag
 array 0 4 1688 0 4 1688
