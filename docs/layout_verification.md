@@ -12,6 +12,7 @@ Top cell: tt_um_niclemmons_instamp
 - Build script: scripts/build_gds.sh
 - LICON cleanup: scripts/cleanup_bandgap_licon.py
 - RPM corrections: scripts/fix_rpm_markers.py
+- Final DRC corrections: scripts/fix_final_drc.py
 
 ## DRC Verification
 
@@ -44,6 +45,10 @@ Comparison:
 - Normalized Xschem schematic reference
 
 Result: Circuits match uniquely.
+
+The final LVS comparison used Netgen 1.5.133 and the SPICE netlist freshly extracted from the corrected production GDS.
+
+Verification evidence is retained in docs/verification/.
 
 The schematic normalization removed an
 ideal 0 V current-measurement source and
@@ -80,7 +85,7 @@ Its flattened physical geometry matched
 the verified trial across all 32 layers.
 
 Production GDS SHA-256:
-cbca486e51267f2e386a6f8171bbbb801e0f09c6905c09b26de0871ac00703f2
+0c971f8dd2497800de9751f323791eb2f12ec8592f9ee2007af9c3545a71bc78
 
 Production LEF SHA-256:
 78e914ba9d90689fbfb21f8bde8b5e6fad3e4ae52f3a97ad148e18128f35025c

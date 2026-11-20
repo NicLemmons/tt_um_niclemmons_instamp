@@ -65,10 +65,15 @@ to ground in the physical layout. Digital inputs are unused.
 
 The Magic layout passes DRC with zero errors.
 
-The original complete circuit passed Netgen LVS. After subsequent
-routing modifications, a diagnostic netlist with normalized ground
-pin aliases also passed LVS. A final check of the unmodified
-extraction is still required.
+The final corrected GDS was extracted using Magic and compared
+against an LVS-only reference using Netgen. The comparison
+reported that the circuits match uniquely. The LVS-only reference
+removes a simulation-only zero-volt current measurement source
+while preserving its electrical connection.
+
+The comparison reports a duplicate-pin warning associated with
+the grounded digital outputs. All 54 expected GDS interface
+labels were independently verified as present exactly once.
 
 The exported GDS generates three HVI hierarchy warnings in Magic.
 Independent KLayout checks have also reported DRC markers.

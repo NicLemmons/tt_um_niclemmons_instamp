@@ -1,0 +1,207 @@
+Netgen 1.5.133 compiled on Thu Dec  1 22:32:11 UTC 2022
+Warning: netgen command 'global' use fully-qualified name '::netgen::global'
+Reading netlist file /tmp/tt_final_gds_lvs/final_gds_extracted.spice
+Call to undefined subcircuit sky130_fd_pr__res_xhigh_po_0p35
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__res_high_po_0p35
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__nfet_g5v0d10v5
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__pfet_g5v0d10v5
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__cap_mim_m3_1
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__pnp_05v5_W3p40L3p40
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__res_high_po_0p69
+Creating placeholder cell definition.
+Reading netlist file /tmp/tt_final_gds_lvs/reference_no_vmeas.spice
+Call to undefined subcircuit opamp_x
+Creating placeholder cell definition.
+Call to undefined subcircuit bandgap_x
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__res_high_po_0p69
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__res_high_po_0p35
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__nfet_g5v0d10v5
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__pfet_g5v0d10v5
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__cap_mim_m3_1
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__res_xhigh_po_0p35
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__pnp_05v5_W3p40L3p40
+Creating placeholder cell definition.
+Reading setup file /home/lemmons/.ciel/sky130A/libs.tech/netgen/sky130A_setup.tcl
+No property w found for device r
+No property l found for device r
+Model sky130_fd_pr__res_high_po_0p35 pin 1 == 2
+No property w found for device sky130_fd_pr__res_high_po_0p35
+No property w found for device sky130_fd_pr__res_high_po_0p35
+No property value found for device sky130_fd_pr__res_high_po_0p35
+No property w found for device sky130_fd_pr__res_high_po_0p35
+No property mult found for device sky130_fd_pr__res_high_po_0p35
+Model sky130_fd_pr__res_high_po_0p35 pin 1 == 2
+No property w found for device sky130_fd_pr__res_high_po_0p35
+No property w found for device sky130_fd_pr__res_high_po_0p35
+No property value found for device sky130_fd_pr__res_high_po_0p35
+No property w found for device sky130_fd_pr__res_high_po_0p35
+Model sky130_fd_pr__res_high_po_0p69 pin 1 == 2
+No property w found for device sky130_fd_pr__res_high_po_0p69
+No property w found for device sky130_fd_pr__res_high_po_0p69
+No property value found for device sky130_fd_pr__res_high_po_0p69
+No property w found for device sky130_fd_pr__res_high_po_0p69
+No property mult found for device sky130_fd_pr__res_high_po_0p69
+Model sky130_fd_pr__res_high_po_0p69 pin 1 == 2
+No property w found for device sky130_fd_pr__res_high_po_0p69
+No property w found for device sky130_fd_pr__res_high_po_0p69
+No property value found for device sky130_fd_pr__res_high_po_0p69
+No property w found for device sky130_fd_pr__res_high_po_0p69
+Model sky130_fd_pr__res_xhigh_po_0p35 pin 1 == 2
+No property w found for device sky130_fd_pr__res_xhigh_po_0p35
+No property w found for device sky130_fd_pr__res_xhigh_po_0p35
+No property value found for device sky130_fd_pr__res_xhigh_po_0p35
+No property w found for device sky130_fd_pr__res_xhigh_po_0p35
+No property mult found for device sky130_fd_pr__res_xhigh_po_0p35
+Model sky130_fd_pr__res_xhigh_po_0p35 pin 1 == 2
+No property w found for device sky130_fd_pr__res_xhigh_po_0p35
+No property w found for device sky130_fd_pr__res_xhigh_po_0p35
+No property value found for device sky130_fd_pr__res_xhigh_po_0p35
+No property w found for device sky130_fd_pr__res_xhigh_po_0p35
+Model sky130_fd_pr__nfet_g5v0d10v5 pin 1 == 3
+No property mult found for device sky130_fd_pr__nfet_g5v0d10v5
+No property sa found for device sky130_fd_pr__nfet_g5v0d10v5
+No property sb found for device sky130_fd_pr__nfet_g5v0d10v5
+No property sd found for device sky130_fd_pr__nfet_g5v0d10v5
+No property nf found for device sky130_fd_pr__nfet_g5v0d10v5
+No property nrd found for device sky130_fd_pr__nfet_g5v0d10v5
+No property nrs found for device sky130_fd_pr__nfet_g5v0d10v5
+No property area found for device sky130_fd_pr__nfet_g5v0d10v5
+No property perim found for device sky130_fd_pr__nfet_g5v0d10v5
+No property topography found for device sky130_fd_pr__nfet_g5v0d10v5
+Model sky130_fd_pr__nfet_g5v0d10v5 pin 1 == 3
+No property area found for device sky130_fd_pr__nfet_g5v0d10v5
+No property perim found for device sky130_fd_pr__nfet_g5v0d10v5
+No property topography found for device sky130_fd_pr__nfet_g5v0d10v5
+Model sky130_fd_pr__pfet_g5v0d10v5 pin 1 == 3
+No property mult found for device sky130_fd_pr__pfet_g5v0d10v5
+No property sa found for device sky130_fd_pr__pfet_g5v0d10v5
+No property sb found for device sky130_fd_pr__pfet_g5v0d10v5
+No property sd found for device sky130_fd_pr__pfet_g5v0d10v5
+No property nf found for device sky130_fd_pr__pfet_g5v0d10v5
+No property nrd found for device sky130_fd_pr__pfet_g5v0d10v5
+No property nrs found for device sky130_fd_pr__pfet_g5v0d10v5
+No property area found for device sky130_fd_pr__pfet_g5v0d10v5
+No property perim found for device sky130_fd_pr__pfet_g5v0d10v5
+No property topography found for device sky130_fd_pr__pfet_g5v0d10v5
+Model sky130_fd_pr__pfet_g5v0d10v5 pin 1 == 3
+No property area found for device sky130_fd_pr__pfet_g5v0d10v5
+No property perim found for device sky130_fd_pr__pfet_g5v0d10v5
+No property topography found for device sky130_fd_pr__pfet_g5v0d10v5
+No property area found for device sky130_fd_pr__cap_mim_m3_1
+No property value found for device sky130_fd_pr__cap_mim_m3_1
+No property mult found for device sky130_fd_pr__cap_mim_m3_1
+No property perim found for device sky130_fd_pr__cap_mim_m3_1
+No property mf found for device sky130_fd_pr__cap_mim_m3_1
+No property area found for device sky130_fd_pr__cap_mim_m3_1
+No property value found for device sky130_fd_pr__cap_mim_m3_1
+No property mult found for device sky130_fd_pr__cap_mim_m3_1
+No property perim found for device sky130_fd_pr__cap_mim_m3_1
+No property mult found for device sky130_fd_pr__pnp_05v5_W3p40L3p40
+No property mult found for device sky130_fd_pr__rf_pnp_05v5_W3p40L3p40
+Comparison output logged to file /tmp/tt_final_gds_lvs/final_gds_no_vmeas_lvs.out
+Logging to file "/tmp/tt_final_gds_lvs/final_gds_no_vmeas_lvs.out" enabled
+Contents of circuit 1:  Circuit: 'instamp'
+Circuit instamp contains 294 device instances.
+  Class: sky130_fd_pr__cap_mim_m3_1 instances:   4
+  Class: sky130_fd_pr__pnp_05v5_W3p40L3p40 instances:  25
+  Class: sky130_fd_pr__res_xhigh_po_0p35 instances:   2
+  Class: sky130_fd_pr__nfet_g5v0d10v5 instances:  97
+  Class: sky130_fd_pr__res_high_po_0p69 instances:   2
+  Class: sky130_fd_pr__res_high_po_0p35 instances:   6
+  Class: sky130_fd_pr__pfet_g5v0d10v5 instances: 158
+Circuit contains 71 nets.
+Contents of circuit 2:  Circuit: 'instamp'
+Circuit instamp contains 99 device instances.
+  Class: sky130_fd_pr__cap_mim_m3_1 instances:   4
+  Class: sky130_fd_pr__pnp_05v5_W3p40L3p40 instances:   2
+  Class: sky130_fd_pr__res_xhigh_po_0p35 instances:   2
+  Class: sky130_fd_pr__nfet_g5v0d10v5 instances:  43
+  Class: sky130_fd_pr__res_high_po_0p69 instances:   2
+  Class: sky130_fd_pr__res_high_po_0p35 instances:   6
+  Class: sky130_fd_pr__pfet_g5v0d10v5 instances:  40
+Circuit contains 69 nets.
+
+Circuit was modified by parallel/series device merging.
+New circuit summary:
+
+Contents of circuit 1:  Circuit: 'instamp'
+Circuit instamp contains 99 device instances.
+  Class: sky130_fd_pr__cap_mim_m3_1 instances:   4
+  Class: sky130_fd_pr__pnp_05v5_W3p40L3p40 instances:   2
+  Class: sky130_fd_pr__res_xhigh_po_0p35 instances:   2
+  Class: sky130_fd_pr__nfet_g5v0d10v5 instances:  43
+  Class: sky130_fd_pr__res_high_po_0p69 instances:   2
+  Class: sky130_fd_pr__res_high_po_0p35 instances:   6
+  Class: sky130_fd_pr__pfet_g5v0d10v5 instances:  40
+Circuit contains 71 nets.
+Contents of circuit 2:  Circuit: 'instamp'
+Circuit instamp contains 99 device instances.
+  Class: sky130_fd_pr__cap_mim_m3_1 instances:   4
+  Class: sky130_fd_pr__pnp_05v5_W3p40L3p40 instances:   2
+  Class: sky130_fd_pr__res_xhigh_po_0p35 instances:   2
+  Class: sky130_fd_pr__nfet_g5v0d10v5 instances:  43
+  Class: sky130_fd_pr__res_high_po_0p69 instances:   2
+  Class: sky130_fd_pr__res_high_po_0p35 instances:   6
+  Class: sky130_fd_pr__pfet_g5v0d10v5 instances:  40
+Circuit contains 69 nets.
+
+Circuit 1 contains 99 devices, Circuit 2 contains 99 devices.
+Circuit 1 contains 69 nets,    Circuit 2 contains 69 nets.
+
+Combined 2 parallel devices.
+Combined 2 parallel devices.
+Combined 5 parallel devices.
+Combined 5 parallel devices.
+Combined 5 parallel devices.
+Combined 5 parallel devices.
+Combined 5 parallel devices.
+Combined 5 parallel devices.
+Combined 5 parallel devices.
+Netlists match uniquely.
+Contents of circuit 1:  Circuit: 'tt_um_niclemmons_instamp'
+Circuit tt_um_niclemmons_instamp contains 3 device instances.
+  Class: instamp               instances:   1
+  Class: sky130_fd_pr__res_xhigh_po_0p35 instances:   2
+Circuit contains 9 nets, and 22 disconnected pins.
+Contents of circuit 2:  Circuit: 'tt_um_niclemmons_instamp'
+Circuit tt_um_niclemmons_instamp contains 27 device instances.
+  Class: r                     instances:  24
+  Class: instamp               instances:   1
+  Class: sky130_fd_pr__res_xhigh_po_0p35 instances:   2
+Circuit contains 33 nets, and 22 disconnected pins.
+
+Circuit 1 contains 3 devices, Circuit 2 contains 27 devices. *** MISMATCH ***
+Circuit 1 contains 9 nets,    Circuit 2 contains 33 nets. *** MISMATCH ***
+
+Contents of circuit 1:  Circuit: 'tt_um_niclemmons_instamp'
+Circuit tt_um_niclemmons_instamp contains 3 device instances.
+  Class: instamp               instances:   1
+  Class: sky130_fd_pr__res_xhigh_po_0p35 instances:   2
+Circuit contains 9 nets, and 22 disconnected pins.
+Contents of circuit 2:  Circuit: 'tt_um_niclemmons_instamp'
+Circuit tt_um_niclemmons_instamp contains 3 device instances.
+  Class: instamp               instances:   1
+  Class: sky130_fd_pr__res_xhigh_po_0p35 instances:   2
+Circuit contains 9 nets, and 22 disconnected pins.
+
+Circuit 1 contains 3 devices, Circuit 2 contains 3 devices.
+Circuit 1 contains 9 nets,    Circuit 2 contains 9 nets.
+
+Netlists match uniquely.
+Duplicate pin uio_oe[1] in cell tt_um_niclemmons_instamp
+Result: Circuits match uniquely.
+Logging to file "/tmp/tt_final_gds_lvs/final_gds_no_vmeas_lvs.out" disabled
+LVS Done.

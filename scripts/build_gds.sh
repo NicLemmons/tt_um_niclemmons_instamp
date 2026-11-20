@@ -20,6 +20,7 @@ WORKDIR="$(mktemp -d /tmp/tt_instamp_build.XXXXXX)"
 
 RAW="$WORKDIR/raw.gds"
 LICON="$WORKDIR/licon_clean.gds"
+RPM="$WORKDIR/rpm_clean.gds"
 FINAL="$WORKDIR/final.gds"
 
 echo "======================================"
@@ -61,13 +62,22 @@ echo
 echo "===== STEP 3: RPM CORRECTIONS ====="
 
 GDS_INPUT="$LICON" \
-GDS_OUTPUT="$FINAL" \
+GDS_OUTPUT="$RPM" \
 klayout -b -r "$ROOT/scripts/fix_rpm_markers.py"
+
+test -s "$RPM"
+
+echo
+echo "===== STEP 4: FINAL DRC CORRECTIONS ====="
+
+GDS_INPUT="$RPM" \
+GDS_OUTPUT="$FINAL" \
+klayout -b -r "$ROOT/scripts/fix_final_drc.py"
 
 test -s "$FINAL"
 
 echo
-echo "===== STEP 4: SAVE CANDIDATE ====="
+echo "===== STEP 5: SAVE CANDIDATE ====="
 
 mkdir -p "$(dirname "$OUTPUT")"
 cp "$FINAL" "$OUTPUT"
